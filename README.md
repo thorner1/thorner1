@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 ###### I am a University of Dayton Alum and have returned to UD as a student to pursue a Masters of Computer Science. I enjoy all things technology and have a passion for programming. I hope to learn and become well versed in the popular programming languages. I would like to build my own, and improve other's, applications with the knowledge I learn. 
 
-###### In my free time, I enjoy relaxing by watching a number of sci-fi, fantasy, and comedy television shows and movies. I also like to escape into the fictional worlds of video games and keep up with the lore of video games I do not have time to play. I also love to spend time with my family and friends, stay active and healthy with a consistent gym routine and the occasional hike or kayak trip when the Ohio weather cooperates.
+###### In my free time, I enjoy relaxing by watching a number of sci-fi, fantasy, and comedy television shows and movies. I also like to escape into the fictional worlds of video games and keep up with the lore of video games I do not have time to play. I love to spend time with my family and friends, stay active and healthy with a consistent gym routine and the occasional hike or kayak trip when the Ohio weather cooperates.
 
 <a href="https://thorner1.bitbucket.io/index.html" target="_blank">Link to my professional website</a>
