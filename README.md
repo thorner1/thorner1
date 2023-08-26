@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 ## Welcome to my GitHub
 
+# I currently work at the University of Dayton as a System Administrator for the Enterprise Admin and Application Services (EAAS) team. My team's main role is managing most of the University's applications such as Google, Microsoft, Zoom, TeamDynamix, Box and more. We asssist users in a variety of ways by helping resolve account/application issues, teaching and educating users on UD's systems, and we have a heavy focus on setting up our TeamDynamix platorm as an Enterpise Service Management system allowing all departments the opportunity to improve their service delivery.
+
