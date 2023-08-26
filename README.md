@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 
 ###### I currently work at the University of Dayton as a System Administrator for the Enterprise Admin and Application Services (EAAS) team. My team's main role is managing most of the University's applications such as Google, Microsoft, Zoom, TeamDynamix, Box and more. We asssist users in a variety of ways by helping resolve account/application issues, teaching and educating users on UD's systems, and we have a heavy focus on setting up our TeamDynamix platorm as an Enterpise Service Management system allowing all departments the opportunity to improve their service delivery.
 
+###### I am a University of Dayton Alum and have returned to UD as a student to pursue a Masters of Computer Science. I enjoy all things technology and have a passion for programming. I hope to learn and become well versed in the popular programming languages. I would like to build my own, and improve other's, applications with the knowledge I learn. 
+
+###### In my free time, I enjoy relaxing by watching a number of sci-fi, fantasy, and comedy television shows and movies. I also like to escape into the fictional worlds of video games and keep up with the lore of video games I do not have time to play. I also love to spend time with my family and friends, stay active and healthy with a consistent gym routine and the occasional hike or kayak trip when the Ohio weather cooperates.
+
 <a href="https://thorner1.bitbucket.io/index.html" target="_blank">Link to my professional website</a>
